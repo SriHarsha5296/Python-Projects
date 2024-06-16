@@ -1,1 +1,18 @@
+Weather Data Analysis
 
+1.	The Weather Dataset is a time-series data set with per-hour information about the weather conditions at a particular location. It records Temperature, Dew Point Temperature, Relative Humidity, Wind Speed, Visibility, Pressure, and Conditions.
+
+2.	This data is available as a CSV file. We are going to analyze this data set using the Pandas DataFrame.
+
+Used functions 
+•	Nunique() & unique()
+•	Value_counts()
+•	Filtering 
+•	Groupby()
+•	Getgroup()
+•	Isnull () & notnull()
+•	Rename ()
+•	Mean(), Std(), Var()
+•	Str.contains()
+•	Operators like &(And), OR( | ), Min(), Max() 
+Note: data sets and python file are I am attaching accordingly.
